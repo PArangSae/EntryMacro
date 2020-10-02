@@ -10,7 +10,7 @@ run() {this.temp = setInterval(() => {this.upload()}, this.time)},
 stop() {{if(this.temp != null) {clearInterval(this.temp);}}},
 
 init() {
-console.log(`%c ${xlogo} `, `color: #2bedc0`)
+console.log(`%c ${xlogo} `, `color: #660066`)
 alert("ProMac!");
 this.time = prompt("작품 저장 간격")*1000;
 alert("새로고침 시 종료됩니다.");
