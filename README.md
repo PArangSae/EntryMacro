@@ -13,12 +13,19 @@ import("https://raw.githack.com/PArangSae/EntryMacro/main/ProMac2-0.js")
 ↟위의 코드는 자신의 작품 중 하나에서 저장매크로를 쓸 수 있게 합니다.
 
 
-WriteUp
+WriteUp(망함)
 --
 ```js
 import("https://raw.githack.com/PArangSae/EntryMacro/main/WriteUp/WriteUp2-1.js")
 ```
 ↟위의 코드는 엔트리 아무 장소에서나 글을 올릴 수 있게 합니다. 조금 오래 걸리지만 커뮤니티까지 가는데 불편하시다면 이걸 써보시기 바랍니다.
+
+SongdJi
+--
+```js
+import("https://raw.githack.com/PArangSae/EntryMacro/main/SongdJi/SongdJi0-0.js")
+```
+↟위의 코드는 전문가용 성지만들기 프로그램입니다. 글 ID를 알아야 하니 협조해야 합니다.
 
 Errors
 --
