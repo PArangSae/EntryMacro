@@ -16,7 +16,7 @@ import("https://raw.githack.com/PArangSae/EntryMacro/main/ProMac2-0.js")
 WriteUp
 --
 ```js
-import("https://raw.githack.com/PArangSae/EntryMacro/main/WriteUp/WriteUp.js")
+import("https://raw.githack.com/PArangSae/EntryMacro/main/WriteUp/WriteUp2-0.js")
 ```
 ↟위의 코드는 엔트리 아무 장소에서나 글을 올릴 수 있게 합니다. 조금 오래 걸리지만 커뮤니티까지 가는데 불편하시다면 이걸 써보시기 바랍니다.
 
