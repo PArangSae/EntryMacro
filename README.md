@@ -8,7 +8,7 @@
 ProMac
 --
 ```js
-import("https://raw.githack.com/PArangSae/EntryMacro/main/ProMac.js")
+import("https://raw.githack.com/PArangSae/EntryMacro/main/ProMac2-0.js")
 ```
 ↟위의 코드는 자신의 작품 중 하나에서 저장매크로를 쓸 수 있게 합니다.
 
