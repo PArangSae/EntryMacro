@@ -1,4 +1,4 @@
-var xlogo = ProMac!
+var xlogo = 'ProMac!'
 var PM = {
 temp : null,
 time : 10000,
