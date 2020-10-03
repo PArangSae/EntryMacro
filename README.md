@@ -18,7 +18,14 @@ import("https://raw.githack.com/PArangSae/EntryMacro/main/ProMac2-0.js")
 ```js
 import("https://raw.githack.com/PArangSae/EntryMacro/main/01mac.js")
 ```
-↟위의 코드는 엔트리 아무 장소에서나 글을 올릴 수 있게 합니다. 조금 오래 걸리지만 커뮤니티까지 가는데 불편하시다면 이걸 써보시기 바랍니다.
+↟위의 코드는 0.1초 매크로입니다.
+
+FreeSearch
+--
+```js
+import("https://raw.githack.com/PArangSae/EntryMacro/main/freesearch.js")
+```
+↟위의 코드는 엔트리 이야기에서 원하는 검색 결과, 원하는 페이지를 볼 수 있게 합니다.
 
 Errors
 --
