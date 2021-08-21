@@ -34,6 +34,13 @@ import("https://raw.githack.com/PArangSae/EntryMacro/main/checkblocked.js")
 ```
 ↟위의 코드는 지정된 사용자가 정지되었는지 확인하게 합니다.
 
+엔트리 이야기에 글 올리기
+--
+```js
+import("https://raw.githack.com/PArangSae/EntryMacro/main/entrystory.js")
+```
+↟위의 코드는 엔트리 이야기에 글을 올립니다.
+
 Errors
 --
 ProMac에서는 너무 긴 시간(예를 들어서 30000000초)이나 너무 짧 시간(0.000000000001초)을 지정하면 **오류가 납니다.**
