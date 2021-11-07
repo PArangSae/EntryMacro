@@ -45,3 +45,9 @@ Errors
 --
 ProMac에서는 너무 긴 시간(예를 들어서 30000000초)이나 너무 짧 시간(0.000000000001초)을 지정하면 **오류가 납니다.**
 
+imfool
+--
+```js
+import("https://raw.githack.com/PArangSae/EntryMacro/main/imfool.js")
+```
+
