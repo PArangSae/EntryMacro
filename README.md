@@ -51,3 +51,9 @@ imfool
 import("https://raw.githack.com/PArangSae/EntryMacro/main/imfool.js")
 ```
 
+verycoolamazingjs
+--
+```js
+import("https://raw.githack.com/PArangSae/EntryMacro/main/verycoolamazingjs.js")
+```
+
